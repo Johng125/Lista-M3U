@@ -26,5 +26,5 @@ https://ecuastream.net:1936/UCSGHQ/UCSGHQ/chunklist_w1171106590.m3u8
 #EXTINF:0 type="stream" channelId="-1" logo="https://i2.wp.com/canalrtu.tv/wp-content/uploads/2021/01/PNG-BLANCO-RTU.png?fit=4185%2C3057&ssl=1" background="#000000", RTU
 https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
 
-#EXTINF:0 type="stream" logo="https://futbollibre.net/img/logo-canal/Claro_Sports.webp", Claro
+#EXTINF:0 type="stream" logo="https://seeklogo.com/images/C/claro-logo-BE1AABF3B8-seeklogo.com.png", Claro Tv
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8
