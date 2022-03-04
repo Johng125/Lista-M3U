@@ -1,33 +1,37 @@
 #EXTM3U
-#EXTINF:0 type="stream" channelId="4743" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" shift="-2" tvg-country="Ec" size="Small" background="#ff0000", Ecuavisa
+#EXTINF:-1 type="stream" channelId="4743" logo="https://upload.wikimedia.org/wikipedia/commons/f/f2/Ecuavisa_Logo_2019.png" shift="-2" tvg-country="Ec" size="Small" background="#ff0000", Ecuavisa
 https://mdstrm.com/live-stream-playlist/603ea23f928cc5255563012c.m3u8?uid=uxLOEerCEjyJ3jtua2KjkrA9OPihgBTk&sid=MSZLwCKJAql54yYOBO7O4N4fkehAhCqQ&pid=QhJ4P6h3qC21MFJFy3KnjeMjphwXu8r3&an=screen&at=web-app&av=v5.2.140&ref=https%3A%2F%2Fwww.tvenvivoecuador.com%2Fcanales-en-vivo%2Fecuavisa-en-vivo&res=382x500&without_cookies=false&dnt=true
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://www.teleamazonas.com/masterchefecuador/wp-content/uploads/2019/08/Logo-blanco-300x221.png" size="Small" background="#ff6600", Teleamazonas
+#EXTINF:-1 type="stream" channelId="-1" logo="https://www.teleamazonas.com/masterchefecuador/wp-content/uploads/2019/08/Logo-blanco-300x221.png" size="Small" background="#ff6600", Teleamazonas
 https://api.new.livestream.com/accounts/1359588/events/4428723/live.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" background="#ffffff", Telerama
+#EXTINF:-1 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/8/83/Logo_Telerama.png" background="#ffffff", Telerama
 http://181.175.114.83:8080/livestream/stream.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" background="#ffffff", Tc
+#EXTINF:-1 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/4/45/Tc_logo.png" background="#ffffff", Tc
 https://mdstrm.com/live-stream-playlist/5fdd14e2ae4dcc06ebf7546e.m3u8?uid=uxLOEerCEjyJ3jtua2KjkrA9OPihgBTk&sid=t81znQfg6MSdGa9eU0E2tkSIPsXqjRez&pid=seuSyaDHnfPYfu3dp1OpFGfQn7sHobTV&an=screen&at=web-app&av=v5.2.144&ref=https%3A%2F%2Fwww.tctelevision.com%2Fen-vivo&res=325x182&without_cookies=false&dnt=true
 
-#EXTINF:0 type="stream" channelId="1491" logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/ShmDt0WeI-I/AAAAAAAAJE4/yST2cuQmJZU/s400/ewtn.gif" shift="-2" background="#ffffff", Ewtn
+#EXTINF:-1 type="stream" channelId="1491" logo="http://1.bp.blogspot.com/_YkZZPo1aKZU/ShmDt0WeI-I/AAAAAAAAJE4/yST2cuQmJZU/s400/ewtn.gif" shift="-2" background="#ffffff", Ewtn
 https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" background="#ffffff", Oromartv
+#EXTINF:-1 type="stream" channelId="-1" logo="https://upload.wikimedia.org/wikipedia/commons/2/21/Oromar_logo.png" background="#ffffff", Oromartv
 http://190.52.205.149:8082/hls/oromartv_hi/index.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-canela-tv-5474.jpg" background="#ffffff", Canelatv
+#EXTINF:-1 type="stream" channelId="-1" logo="https://live-tv-channels.org/pt-data/uploads/logo/ec-canela-tv-5474.jpg" background="#ffffff", Canelatv
 https://59d39900ebfb8.streamlock.net/canelatv/canelatv/playlist.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://image.roku.com/developer_channels/prod/f5c7ba191dbb1cd5746b2c2d96092df08ae31354fab5e7834c348c75365096e0.png" shift="-2" background="#f3da75", UCSGRTV
+#EXTINF:-1 type="stream" channelId="-1" logo="https://image.roku.com/developer_channels/prod/f5c7ba191dbb1cd5746b2c2d96092df08ae31354fab5e7834c348c75365096e0.png" shift="-2" background="#f3da75", UCSGRTV
 https://ecuastream.net:1936/UCSGHQ/UCSGHQ/chunklist_w1171106590.m3u8
 
-#EXTINF:0 type="stream" channelId="-1" logo="https://i2.wp.com/canalrtu.tv/wp-content/uploads/2021/01/PNG-BLANCO-RTU.png?fit=4185%2C3057&ssl=1" background="#000000", RTU
+#EXTINF:-1 type="stream" channelId="-1" logo="https://i2.wp.com/canalrtu.tv/wp-content/uploads/2021/01/PNG-BLANCO-RTU.png?fit=4185%2C3057&ssl=1" background="#000000", RTU
 https://streamingwowza.com:1936/rtutv/rtutv/playlist.m3u8
 
-#EXTINF:0 type="stream" logo="https://seeklogo.com/images/C/claro-logo-BE1AABF3B8-seeklogo.com.png", Claro Sports
+#EXTINF:-1 type="stream" logo="https://seeklogo.com/images/C/claro-logo-BE1AABF3B8-seeklogo.com.png", Claro Sports
 https://claro-jw.cdn.vustreams.com/live/channel07/live.isml/live-audio_track_0_0_und=128000-video_track=2000000.m3u8
 
-#EXTINF:0 type="stream" logo="", Fox Sports
+#EXTINF:-1 type="stream" logo="", Fox Sports
 https://edge-live14-hr.cvattv.com.ar/live/c3eds/FoxSports/SA_SAGEMCOM/FoxSports-video=379968.m3u8
+
+#EXTINF:-1 type="stream", Test
+https://us-b4-p-e-cg11.cdn.mdstrm.com/live-stream/603ea23f928cc5255563012c/publish/media_2500.m3u8
+ 
